@@ -1,0 +1,2 @@
+admin1;admin1QUIZ$**
+admin2;admin2QUIZ#**

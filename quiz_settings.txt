@@ -1,0 +1,5 @@
+Assessment Component;Quiz-2
+Randomize questions;True
+Number of attempts;3
+Time limit (mins);10
+Marks for each question;2
